@@ -1,0 +1,4 @@
+2026-03-03 02:23:32,660 - ERROR - Error processing finance_data.xlsx: File is not a zip file
+2026-03-03 02:23:32,685 - INFO - Processed: hr_report.txt | Category: HR
+2026-03-03 02:23:32,700 - ERROR - Error processing legal_agreement.docx: Package not found at 'input_documents\legal_agreement.docx'
+2026-03-03 02:23:32,754 - INFO - Processed: operations_report.pdf | Category: Finance
